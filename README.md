@@ -18,3 +18,8 @@ The goal of this project was to clean and prepare a customer dataset for analysi
 
 ### Outcome:
 The dataset is now free of duplicates, standardized, and ready for meaningful analysis, providing a reliable foundation for further data-driven decision-making.
+### Raw Data:
+![Screenshot 2025-02-07 123540](https://github.com/user-attachments/assets/6fca6952-e97d-4473-a540-9c39dff89f5b)
+
+### Final cleansed dataset:
+![Screenshot 2025-02-07 123604](https://github.com/user-attachments/assets/90422e0d-5cfb-42a1-a4c7-9cf794759e12)
